@@ -4,6 +4,7 @@
 
 Writes the entry line to $MAKEFUN_OUTPUT_DIR/entry.txt
 (default /output/entry.txt) and prints exactly the same line.
+The joke is a single self-contained sentence; no extra text is printed.
 """
 
 import os
